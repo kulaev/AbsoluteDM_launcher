@@ -1,0 +1,4 @@
+#include "windows.h"
+
+A_CURSOR CURSOR PRELOAD arrow.cur
+A_ICON ICON icon.ico

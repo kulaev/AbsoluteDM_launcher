@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build_exe",
+            "type": "shell",
+            "presentation": {
+                "showReuseMessage": false
+            },
+            "command": "build",
+            "problemMatcher": [],
+            "group": "build",
+            
+        },
+    ]
+}
