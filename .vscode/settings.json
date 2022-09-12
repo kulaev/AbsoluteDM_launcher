@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gdiplus.h": "c",
+        "gdiplusgraphics.h": "c",
+        "gdiplusflat.h": "c"
+    }
+}
